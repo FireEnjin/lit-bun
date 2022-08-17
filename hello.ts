@@ -1,6 +1,6 @@
 export default {
-    port: 8080,
-    fetch(request: Request) {
-      return new Response("Hello World");
-    },
-  };
+  port: 8080,
+  fetch(request: Request) {
+    return new Response("Hello FireEnjineer, let's get lit!");
+  },
+};
