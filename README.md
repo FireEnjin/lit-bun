@@ -22,7 +22,7 @@ Both of these commands will build the sources into a container and deploy it to 
 
 Build with 
 ```
-docker build -t bun
+docker build . -t bun
 ```
 
 Run locally with:
