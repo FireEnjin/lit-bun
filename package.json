@@ -1,0 +1,26 @@
+{
+  "name": "@fireenjin/lit-bun",
+  "version": "1.0.0",
+  "description": "A lit stack to get your bun online.",
+  "main": "hello.ts",
+  "dependencies": {
+    "@fireenjin/sdk": "^1.2.61",
+    "lit-element-state": "^1.7.0",
+    "@vaadin/router": "^1.7.4",
+    "firebase": "^9.9.2",
+    "lit": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireEnjin/lit-bun.git"
+  },
+  "author": "Madness Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FireEnjin/lit-bun/issues"
+  },
+  "homepage": "https://github.com/FireEnjin/lit-bun#readme"
+}
